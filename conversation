@@ -3,5 +3,5 @@
 Person1=$1
 Person2=$2
 
-echo "$Person1 : Hi Person2, bagunnava?"
-echo "$Person2 : Hi Person1, bagunna."
+echo "$Person1:: Hi Person2, bagunnava?"
+echo "$Person2:: Hi Person1, bagunna."
